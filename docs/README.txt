@@ -15,4 +15,4 @@ Phần tự làm: trừ các phần tham khảo AI, còn lại dựa vào các b
 
 Khó khăn gặp phải: js chưa thể tự code với các logic phức tạp, hay quên tên lớp tự đặt, ngồi gõ lâu đau lưng mỏi mắt.
 
-link live web: 
+link live web: https://phan-van-phoi.github.io/My-ArtLib/
