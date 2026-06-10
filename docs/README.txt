@@ -13,6 +13,6 @@ Phần tham khảo AI: code js hiển thị thông tin sản phẩm và tối ư
 
 Phần tự làm: trừ các phần tham khảo AI, còn lại dựa vào các bài thực hành đã thực hiện mà tự làm.
 
-Khó khăn gặp phải: js chưa thể tự code với các logic phức tạp, hay quên tên lớp tự đặt, ngồi gõ lâu đau lưng mỏi mắt.
+Khó khăn gặp phải: js chưa thể tự code với các logic phức tạp, hay quên tên lớp tự đặt, cần tham khảo tài liệu hoặc AI thì mới hoàn thành nhanh được.
 
 link live web: https://phan-van-phoi.github.io/My-ArtLib/
